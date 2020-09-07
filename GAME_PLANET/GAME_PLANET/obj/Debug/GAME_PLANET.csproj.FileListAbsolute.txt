@@ -1,0 +1,718 @@
+C:\Users\yac-o\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.exe.config
+C:\Users\yac-o\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.exe
+C:\Users\yac-o\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.pdb
+C:\Users\yac-o\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csprojResolveAssemblyReference.cache
+C:\Users\yac-o\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Login.resources
+C:\Users\yac-o\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Properties.Resources.resources
+C:\Users\yac-o\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.GenerateResource.cache
+C:\Users\yac-o\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.CoreCompileInputs.cache
+C:\Users\yac-o\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.exe
+C:\Users\yac-o\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.pdb
+C:\Users\yac-o\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.MenuAdmin.resources
+C:\Users\yac-o\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\System.Data.SQLite.dll
+C:\Users\yac-o\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddCliente.resources
+C:\Users\yac-o\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Clientes.resources
+C:\Users\yac-o\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.CopyComplete
+C:\Users\yac-o\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateCliente.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.exe.config
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.exe
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.pdb
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\System.Data.SQLite.dll
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csprojResolveAssemblyReference.cache
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddCliente.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Clientes.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.MenuAdmin.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Properties.Resources.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateCliente.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.GenerateResource.cache
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.CoreCompileInputs.cache
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.CopyComplete
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.exe
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.pdb
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddEmpleados.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Empleados.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarCliente.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateEmpleado.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarEmpleado.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProducto.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarProducto.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Productos.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateProducto.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProveedor.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarProveedor.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Proveedores.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateProveedor.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.LoginEmpleados.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.MenuEmpleado.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.SeleccionAoE.resources
+C:\Users\Luis LG\Documents\Tareas\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.LoginAdministrador.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.exe.config
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.exe
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.pdb
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\System.Data.SQLite.dll
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csprojResolveAssemblyReference.cache
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddCliente.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddEmpleados.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.LoginEmpleados.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.MenuEmpleado.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.SeleccionAoE.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProducto.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProveedor.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Clientes.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Empleados.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarEmpleado.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarCliente.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarProducto.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarProveedor.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.LoginAdministrador.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.MenuAdmin.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Productos.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Properties.Resources.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Proveedores.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateCliente.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateEmpleado.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateProducto.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateProveedor.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.GenerateResource.cache
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.CoreCompileInputs.cache
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.CopyComplete
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.exe
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.pdb
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AgregarPV.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Pago.resources
+C:\Users\yac-o\Desktop\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Ventas.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.exe.config
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.exe
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.pdb
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\System.Data.SQLite.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csprojResolveAssemblyReference.cache
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AgregarPV.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddCliente.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddEmpleados.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProducto.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProveedor.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Clientes.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Empleados.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarEmpleado.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarCliente.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarProducto.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarProveedor.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.LoginAdministrador.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Productos.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Properties.Resources.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Proveedores.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateCliente.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateEmpleado.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateProducto.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateProveedor.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Ventas.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.GenerateResource.Cache
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.CoreCompileInputs.cache
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.exe
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.pdb
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.exe.config
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.exe
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.pdb
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\System.Data.SQLite.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csprojResolveAssemblyReference.cache
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AgregarPV.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddCliente.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddEmpleados.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.MenuEmpleado.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Pago.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProducto.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProveedor.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Clientes.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Empleados.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarEmpleado.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarCliente.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarProducto.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarProveedor.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.LoginAdministrador.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.MenuAdmin.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Productos.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Properties.Resources.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Proveedores.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateCliente.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateEmpleado.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateProducto.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateProveedor.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Ventas.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.GenerateResource.cache
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.CoreCompileInputs.cache
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.CopyComplete
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.exe
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.pdb
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.exe.config
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.exe
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.pdb
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\System.Data.SQLite.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AgregarPV.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddCliente.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddEmpleados.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProducto.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProveedor.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Clientes.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Empleados.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarEmpleado.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarCliente.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarProducto.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarProveedor.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.LoginAdministrador.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Productos.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Properties.Resources.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Proveedores.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateCliente.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateEmpleado.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateProducto.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateProveedor.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Ventas.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.GenerateResource.cache
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.CoreCompileInputs.cache
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.CopyComplete
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.exe
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.pdb
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.MENUU.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Reposo.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\EnvDTE.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\stdole.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.MSXML.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.FacPrueba.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AgrCli.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.Common.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.Design.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.SqlServer.Types.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\EnvDTE.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\stdole.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.MSXML.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AgrCli.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.FacPrueba.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.MENUU.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Reposo.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.Design.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\EnvDTE.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\stdole.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.MSXML.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AgrCli.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.FacPrueba.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.MENUU.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Menus_y_Login.Reporte.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Reposo.resources
+E:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Reporte.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.ReporteDeVenta.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Pedidos.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.NuevoPedido.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Pedidos.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.NuevoPedido.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.ReporteDeVenta.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.exe.config
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.exe
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.pdb
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\System.Data.SQLite.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\EnvDTE.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\stdole.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.MSXML.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csprojResolveAssemblyReference.cache
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AgrCli.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.FacPrueba.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AgregarPV.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddCliente.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddEmpleados.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.MENUU.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Pedidos.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.NuevoPedido.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProducto.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProveedor.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Clientes.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Empleados.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarEmpleado.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarCliente.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarProducto.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarProveedor.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.LoginAdministrador.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Productos.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Properties.Resources.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Proveedores.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateCliente.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateEmpleado.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateProducto.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateProveedor.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Ventas.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Reposo.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.ReporteDeVenta.resources
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.GenerateResource.cache
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.CoreCompileInputs.cache
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.CopyComplete
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.exe
+F:\PROYECTOusb\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.pdb
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.MV.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.MV.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarPedido.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarReporteV.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AgreProPedido.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProvePedido.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProvePedido.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AgreProPedido.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarReporteV.resources
+G:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarPedido.resources
+F:\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csprojAssemblyReference.cache
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.exe.config
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.exe
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.pdb
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\System.Data.SQLite.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\EnvDTE.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\stdole.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csprojAssemblyReference.cache
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProvePedido.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AgreProPedido.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AgrCli.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.FacPrueba.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AgregarPV.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddCliente.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddEmpleados.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarReporteV.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarPedido.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.MENUU.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.MV.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Pedidos.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.NuevoPedido.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProducto.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProveedor.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Clientes.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Empleados.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarEmpleado.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarCliente.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarProducto.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarProveedor.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.LoginAdministrador.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Productos.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Properties.Resources.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Proveedores.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateCliente.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateEmpleado.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateProducto.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateProveedor.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Ventas.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Reposo.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.ReporteDeVenta.resources
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.GenerateResource.cache
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.CoreCompileInputs.cache
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.CopyComplete
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.exe
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.pdb
+C:\Users\Luis LG\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.exe.config
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.exe
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\GAME_PLANET.pdb
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\System.Data.SQLite.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\EnvDTE.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\stdole.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.MSXML.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\bin\Debug\es\Microsoft.VisualBasic.PowerPacks.resources.dll
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csprojAssemblyReference.cache
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProvePedido.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AgreProPedido.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AgrCli.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.FacPrueba.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AgregarPV.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddCliente.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddEmpleados.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarReporteV.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarPedido.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.MENUU.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.MV.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Pedidos.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.NuevoPedido.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProducto.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProveedor.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Clientes.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Empleados.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarEmpleado.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarCliente.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarProducto.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarProveedor.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.LoginAdministrador.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Productos.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Properties.Resources.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Proveedores.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateCliente.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateEmpleado.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateProducto.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateProveedor.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Ventas.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Reposo.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.ReporteDeVenta.resources
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.GenerateResource.cache
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.CoreCompileInputs.cache
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.CopyComplete
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.exe
+C:\Users\LuisL\OneDrive\PROYECTO\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.pdb
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csprojAssemblyReference.cache
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProvePedido.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AgreProPedido.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AgrCli.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.FacPrueba.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AgregarPV.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddCliente.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddEmpleados.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarReporteV.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarPedido.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.MENUU.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.MV.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Pedidos.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.NuevoPedido.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProducto.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.AddProveedor.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Clientes.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Empleados.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarEmpleado.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarCliente.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarProducto.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.IfEliminarProveedor.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.LoginAdministrador.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Productos.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Properties.Resources.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Proveedores.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateCliente.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateEmpleado.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateProducto.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.UpdateProveedor.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Ventas.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.Reposo.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.ReporteDeVenta.resources
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.csproj.GenerateResource.cache
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.exe
+C:\Users\LuisL\OneDrive\Respaldo Punto de Venta\GAME_PLANET\GAME_PLANET\obj\Debug\GAME_PLANET.pdb
